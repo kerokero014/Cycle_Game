@@ -1,7 +1,5 @@
 # Cycle_Game
 
-# Cycle
-
 Make the other player crash into you. 
 
 ---
