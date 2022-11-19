@@ -26,18 +26,6 @@ keyboardServices.cs
 Player.cs
 
 The player.cs class was created in order to have the two players. 
-```
-A way we used Polymorphism we used the override mode in order to change the trial of the two bikes, we also used it in order to know the  keys they will press and how for example every time the head of the bike will leave a trail and where the one behind the head is supposed to follow the one infront. 
-
-## Required Technologies
-
-- dotnet 6.0
-- raylib-cs 3.7.0.1
-
-## Authors
-
-- Matt Manley (manleym@byui.edu)
-- Scott Burton (burtons@byui.edu)
 
 
  
