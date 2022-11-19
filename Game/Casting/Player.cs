@@ -1,7 +1,7 @@
 namespace Unit05.Game.Casting
 {
     /// <summary>
-    /// <para>A player on a bike.</para>
+    /// <para>A player on a bike or "snake".</para>
     /// <para>The bike continually leaves a trail behind it..</para>
     /// </summary>
     public class Player : Actor
